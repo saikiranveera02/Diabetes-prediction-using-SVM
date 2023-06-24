@@ -4,7 +4,7 @@ created predictive system using SVM (Support Vector Machine Algorithm)
 ## Introduction
 As title Suggets this project is about to predict whether the person is diabetic or not based on some raw data that available and by using one of the supervised machine learning algorithm called support vector machine
 ## Process 
-First download the  Diabetes dataset from kaggle
+--First download the  Diabetes dataset from kaggle
 Import all the libraries that needed in jupiter notebook
 Load the dataset to jupiter notebook using pandas library
 Now explore the data and then do the necessary data preprocessing steps
